@@ -4,7 +4,7 @@
 <h3>去广告和科学上网hosts源</h3>
 1.yhosts: https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts  （国内维护者屏蔽国内网站广告）
 <br/>
-2.大圣净化：https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts  （主要针对国内视频网站）
+2.大圣净化:：https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts  （主要针对国内视频网站）
 <br/>
 3.1024_hosts：https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts  （1024网站和澳门皇家赌场）
 <br/>
